@@ -1,0 +1,20 @@
+{
+  "name": "required-argument",
+  "version": "0.0.1",
+  "description": "A function to mark function arguments as required",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "test:watch": "mocha --watch"
+  },
+  "author": "Tim Jacobi",
+  "license": "MIT",
+  "dependencies": {
+    "is-string": "^1.0.4",
+    "parse-function": "^2.3.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}
