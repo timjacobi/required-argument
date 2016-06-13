@@ -1,4 +1,4 @@
-# required-argument
+# required-argument [![Build Status](https://travis-ci.org/timjacobi/required-argument.svg?branch=master)](https://travis-ci.org/timjacobi/required-argument)
 Pass this function as a default argument to throw an error when the argument is `undefined`
 
 ## Example
