@@ -7,6 +7,10 @@
     "test": "mocha",
     "test:watch": "mocha --watch"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timjacobi/required-argument"
+  },
   "author": "Tim Jacobi",
   "license": "MIT",
   "dependencies": {},
