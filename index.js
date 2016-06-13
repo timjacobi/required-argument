@@ -1,5 +1,3 @@
-const isString = require('is-string');
-
 function required(){
 	const funcName = required.caller.name ? `"${required.caller.name}"` : "<anonymous function>";
 
