@@ -1,6 +1,6 @@
 {
   "name": "required-argument",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A function to mark function arguments as required",
   "main": "index.js",
   "scripts": {
